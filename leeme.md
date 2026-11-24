@@ -6,7 +6,7 @@
 > **Especialidad:** Inteligencia Artificial  
 > **Semestre:** 3º de Preparatoria  
 > **Herramientas:** Python, Visual Studio Code, OpenCV y NumPy.
-
+# Cristopher Lopez 1374 
 ## Resultado 
 ![alt text](image.png)
 ![alt text](image-1.png)
